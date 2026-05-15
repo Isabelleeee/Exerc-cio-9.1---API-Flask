@@ -1,0 +1,5 @@
+$kind: http-request
+name: test api
+url: http://127.0.0.1:5000/api/greet
+method: GET
+order: 1778849833817
